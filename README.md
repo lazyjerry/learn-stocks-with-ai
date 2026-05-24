@@ -2,6 +2,12 @@
 
 ![用 AI 學股票課程封面](assets/cover.png)
 
+## 快速開始
+
+- [課程索引](courses/README.md)：依堂數列出 27 節正式課程。
+- [課程綱要](courses/00-課程綱要.md)：查看整體設計與學習路線。
+- 建議從 [第一堂第 1 節：EPS、ROE、PER](courses/01-常用專有名詞解釋/01-EPS-ROE-PER.md) 開始。
+
 ## 專案結構
 
 ```text
@@ -10,6 +16,7 @@
 ├── assets/
 │   └── cover.png
 ├── courses/
+│   ├── README.md
 │   ├── 00-課程綱要.md
 │   ├── 01-常用專有名詞解釋/
 │   │   ├── 01-EPS-ROE-PER.md
@@ -53,6 +60,7 @@
 - `README.md`：專案入口，放置課程綱要與目前文章結構。
 - `assets/`：存放 README 與課程使用的圖片素材。
 - `courses/`：存放正式課程 Markdown 文件。
+- `courses/README.md`：課程索引，提供各堂課與各節文章連結。
 - `courses/00-課程綱要.md`：完整課程規劃，後續每一堂、每一節文章都依這份綱要拆分。
 - `courses/01-常用專有名詞解釋/`：第一堂課內容，建立股票入門常用詞彙。
 - `courses/02-股票市場基本觀念/`：第二堂課內容，理解股票、市場別與股價漲跌邏輯。
